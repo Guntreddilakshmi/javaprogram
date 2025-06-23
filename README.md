@@ -11,7 +11,6 @@ This is a simple Java console application that performs basic arithmetic operati
 - Loop-based structure to perform multiple calculations
 
  💡 How to Run
-
  ✅ Requirements:
 - Java JDK installed (e.g., JDK 17 or above)
 - Command Prompt / Terminal
@@ -22,7 +21,12 @@ This is a simple Java console application that performs basic arithmetic operati
 2. Navigate to the folder where Calculator.java is saved:
 
    bash
-   cd "path\to\java programs"
+   cd  "C:\Users\DELL\OneDrive\java program"
+   git init
+   git commit -m "Initial commit: Java console calculator"
+   git branch -M main
+   git push -u origin main
+
 
 
 3. Compile the program:
@@ -41,12 +45,6 @@ This is a simple Java console application that performs basic arithmetic operati
 
 * Calculator.java– Source code
 * Calculator.class – Compiled bytecode (optional)
-
-
-
-
-
-
 
  ✅ How to Use It
 
